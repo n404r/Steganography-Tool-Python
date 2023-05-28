@@ -1,4 +1,3 @@
-
 # Python Steganography Tool
  Steganography Tool is a Python application that enables users to hide and extract secret messages within image files using LSB (Least Significant Bit) steganography. Built with Tkinter for the graphical user interface (GUI) and the Stegano library for image manipulation, this tool offers an easy and intuitive way to apply steganography techniques for secure communication. Use it responsibly and explore the fascinating world of hidden messages!
 
