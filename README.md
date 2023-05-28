@@ -19,10 +19,12 @@
 
 ### Open terminal and use these commands.
 
-```git clone https://github.com/n404r/Steganography-Tool-Python.git
+```
+git clone https://github.com/n404r/Steganography-Tool-Python.git
 cd Steganography-Tool-Python
 pip install -r requirements.txt
-python steganography.py```
+python steganography.py
+```
 
 The graphical user interface (GUI) will open.
 
