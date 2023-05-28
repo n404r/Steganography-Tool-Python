@@ -28,7 +28,12 @@ python steganography.py
 
 The graphical user interface (GUI) will open.
 
+
+
 1. Click the "Select Image" button to choose an image file.
+
+![Screenshot_of_the_tool](https://github.com/n404r/Steganography-Tool-Python/assets/93007388/4257b170-e037-4b8a-9ecf-674e6e72d226)
+
 
 2. Enter your secret message in the "Secret Text" field.
 
