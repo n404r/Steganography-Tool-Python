@@ -17,22 +17,22 @@
 
 ## Usage
 
-1. Clone the repository.
-`git clone https://github.com/n404r/Steganography-Tool-Python.git`
+### Open terminal and use these commands.
 
-2. Change to the project directory.
-
-3. Run the python tool.
+```git clone https://github.com/n404r/Steganography-Tool-Python.git
+cd Steganography-Tool-Python
+pip install -r requirements.txt
+python steganography.py```
 
 The graphical user interface (GUI) will open.
 
-4. Click the "Select Image" button to choose an image file.
+1. Click the "Select Image" button to choose an image file.
 
-5. Enter your secret message in the "Secret Text" field.
+2. Enter your secret message in the "Secret Text" field.
 
-6. Click the "Hide Message" button to hide the secret message within the selected image.
+3. Click the "Hide Message" button to hide the secret message within the selected image.
 
-7. To extract the hidden message, click the "Extract Message" button.
+4. To extract the hidden message, click the "Extract Message" button.
 
 ## Disclaimer
 
