@@ -29,7 +29,7 @@ python steganography.py
 The graphical user interface (GUI) will open.
 
 
-![Screenshot of_the_tool](https://github.com/n404r/Steganography-Tool-Python/assets/93007388/3fbb6710-1423-47cd-b4f2-71a1a518aeb5)
+<img src="https://github.com/n404r/Steganography-Tool-Python/assets/93007388/3fbb6710-1423-47cd-b4f2-71a1a518aeb5" alt="Screenshot of the tool" width="500">
 
 1. Click the "Select Image" button to choose an image file.
 
