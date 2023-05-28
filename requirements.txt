@@ -1,2 +1,2 @@
 stegano
-tkinter
+tk
