@@ -18,6 +18,7 @@
 ## Usage
 
 1. Clone the repository.
+`git clone https://github.com/n404r/Steganography-Tool-Python.git`
 
 2. Change to the project directory.
 
